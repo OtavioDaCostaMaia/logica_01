@@ -1,0 +1,7 @@
+1 - Se detectar "inventário cheio", utilizar "inventário clear".
+
+2 - Se encontrar um código repetido, revelar esses códigos.
+
+3 - Quando a vida de um personagem jogável marcar 1/10, automaticamente use o item "cura".
+
+4 - Quandorr a palavra "Escola", obrugatoriamente o cenário irá escrever "Yvone".
